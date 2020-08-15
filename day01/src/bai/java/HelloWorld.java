@@ -1,4 +1,4 @@
-package com.solo.linhan.bai.java;
+package bai.java;
 
 /**
  * @Author: solo.linhan.bai

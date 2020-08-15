@@ -1,4 +1,4 @@
-package com.solo.linhan.bai.java;
+package bai.java;
 
 /**
  * 测试Thread中的常用方法

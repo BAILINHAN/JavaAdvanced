@@ -1,4 +1,4 @@
-package com.solo.linhan.bai.java;
+package bai.java;
 
 /**
  * 多线程的创建，方式一：继承于Thread类
