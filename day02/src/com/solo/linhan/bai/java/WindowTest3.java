@@ -1,4 +1,4 @@
-package com.solo.linhan.bai;
+package com.solo.linhan.bai.java;
 
 /**
  * 使用同步方法来解决实现Runnable接口的线程安全问题

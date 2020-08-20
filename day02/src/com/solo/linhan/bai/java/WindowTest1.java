@@ -1,4 +1,4 @@
-package com.solo.linhan.bai;
+package com.solo.linhan.bai.java;
 
 /**
  * 例子：创建三个窗口卖票，总票数为100张

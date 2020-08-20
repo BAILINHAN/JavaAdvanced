@@ -1,4 +1,4 @@
-package com.solo.linhan.bai;
+package com.solo.linhan.bai.java;
 
 /**
  * 使用同步方法处理继承Thread类的方式中的线程安全问题

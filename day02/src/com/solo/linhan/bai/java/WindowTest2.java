@@ -1,4 +1,4 @@
-package com.solo.linhan.bai;
+package com.solo.linhan.bai.java;
 
 /**
  *
